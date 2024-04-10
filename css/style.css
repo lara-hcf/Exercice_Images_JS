@@ -1,0 +1,16 @@
+.image {
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin-top: 20px;
+    
+}
+#image1 {
+    visibility: hidden;
+}
+#image2 {
+    visibility: hidden;
+}
+#image3 {
+    visibility: hidden;
+}
