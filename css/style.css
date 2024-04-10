@@ -1,16 +1,15 @@
 .image {
     width: 150px;
     height: 150px;
-    display: block;
     margin-top: 20px;
     
 }
 #image1 {
-    display: block;
+    display: none;
 }
 #image2 {
-    display: block;
+    display: none;
 }
 #image3 {
-    display: block;
+    display: none;
 }
