@@ -6,11 +6,11 @@
     
 }
 #image1 {
-    visibility: hidden;
+    display: block;
 }
 #image2 {
-    visibility: hidden;
+    display: block;
 }
 #image3 {
-    visibility: hidden;
+    display: block;
 }
